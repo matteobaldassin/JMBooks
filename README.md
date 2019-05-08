@@ -39,6 +39,18 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] about us (me e pirol)
 - [ ] Donazioni con account paypal
 
+### To-Check list
+- [ ] CONTROLLA FOTO PROFILO IN ACCOUNT PAGE CON GOOGLE
+- [ ] CONTROLLA TUTTO PER GOOGLE
+- [ ] CONTROLLA SE FUNZIONA ANCORA REGISTER (in teoria si!)
+- [ ] CONTROLLA GOOGLE DISCONNECT() non disconnette veramente ma puo essere passabile per primi test
+
+### Improve list
+- [ ] MIGLIORARE REDIRECT in CERCALIBRO: alla pagina corrente e non sempre ad index.php
+- [ ] MIGLIORARE in schedaLibro onLoad() fai uscire il modale se non sei loggato, javascript lo odio e non funziona.
+- [ ] migliora “elimina definitivamente” in listalibri con popup di sicurezza e poi $_SESSION[“gia-confermato”] = true e quindi non esce più
+
+
 ## Useful links
 
 - (https://pypi.org/project/python-barcode/)
