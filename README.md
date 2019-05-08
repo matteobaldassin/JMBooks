@@ -63,3 +63,4 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [webcam con flask e python](https://www.codepool.biz/web-camera-recorder-oepncv-flask.html)
 - [runnare python webserver con flask su aws](https://www.youtube.com/watch?v=WE303yFWfV4)
 - [Database italiano con risposte JSON](https://literarymachin.es/sbn-json-api)
+- [Uno dei pochi siti database funzionati, da trovare l'endPOINT](https://www.books-by-isbn.com/cgi-bin/isbnondemand.pl?isbn=9788842114932)
