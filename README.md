@@ -2,9 +2,9 @@
 Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Monnet
 
 ## TODO LIST
-  [] 1
-  [] 2
-  [X] 3
+  - [ ] 1
+  - [ ] 2
+  - [x] 3
 ## Useful links
 
 - (https://pypi.org/project/python-barcode/)
