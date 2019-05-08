@@ -60,3 +60,5 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - (https://ludusrusso.cc/2018/01/22/opencv-barcode-reader/)
 - POSTMAN
 - (https://medium.com/@umerfarooq_26378/web-services-in-python-ef81a9067aaf)
+- [webcam con flask e python](https://www.codepool.biz/web-camera-recorder-oepncv-flask.html)
+- [runnare python webserver con flask su aws](https://www.youtube.com/watch?v=WE303yFWfV4)
