@@ -49,6 +49,8 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] MIGLIORARE REDIRECT in CERCALIBRO: alla pagina corrente e non sempre ad index.php
 - [ ] MIGLIORARE in schedaLibro onLoad() fai uscire il modale se non sei loggato, javascript lo odio e non funziona.
 - [ ] migliora “elimina definitivamente” in listalibri con popup di sicurezza e poi $_SESSION[“gia-confermato”] = true e quindi non esce più
+- [ ] Mail non arrvia
+
 
 
 ## Useful links
