@@ -51,7 +51,10 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] migliora “elimina definitivamente” in listalibri con popup di sicurezza e poi $_SESSION[“gia-confermato”] = true e quindi non esce più
 - [ ] Mail non arrvia
 
-
+### Appunti per connessione a python webservice
+Il webservice dovrà runnare sullo stesso server, cosi potra accedere al file caricato sul server, per poterlo decodificare.
+questo è un problema, si puo ovviare passando in qualche modo l'immagine al python webserver (esempio con download da url)
+e forse funzionerebbe.
 
 ## Useful links
 
