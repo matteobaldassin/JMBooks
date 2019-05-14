@@ -29,7 +29,7 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [X] Modifica profilo da Account Page
 - [X] account page con id get e scrive i parametri
 - [X] Script Javascript in account che ti seleziona casella
-- [ ] Aggiorna propic (ci siamo quasi)
+- [X] Aggiornamento foto profilo in account.php
 - [ ] metti formato italiano nel datetime di account page, il codice c’e uguale nello schedaLibro data inserimento
 - [ ] favicon e logo: https://imgur.com/a/14daiaq
 - [ ] about us (me e pirol)
@@ -55,6 +55,7 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] Prezzo amazon
 - [ ] modificare i “?message=” con modal bootstrap popup autorun
 - [ ] Nella tabella libri, modificare prezzo (21.1 --> 21.10)
+- [ ] Nel modale "modifyFotoProfilo" controllare grandezza immagine quando visualizzata!
 
 ### Appunti per connessione a python webservice
 Il webservice dovrà runnare sullo stesso server, cosi potra accedere al file caricato sul server, per poterlo decodificare.
