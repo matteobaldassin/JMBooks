@@ -30,10 +30,10 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [X] account page con id get e scrive i parametri
 - [X] Script Javascript in account che ti seleziona casella
 - [X] Aggiornamento foto profilo in account.php
+- [X] Donazioni con account paypal
 - [ ] metti formato italiano nel datetime di account page, il codice c’e uguale nello schedaLibro data inserimento
 - [ ] favicon e logo: https://imgur.com/a/14daiaq
 - [ ] about us (me e pirol)
-- [ ] Donazioni con account paypal
 - [ ] Modifica libro (opzionale)
 - [ ] Caratteri UTF-8 (con accento) non vanno
 - [ ] Footer!
