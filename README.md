@@ -39,6 +39,7 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] Donazioni con account paypal
 - [ ] Modifica libro (opzionale)
 - [ ] Caratteri UTF-8 (con accento) non vanno
+- [ ] Footer!
 
 ### To-Check list
 - [ ] CONTROLLA FOTO PROFILO IN ACCOUNT PAGE CON GOOGLE
