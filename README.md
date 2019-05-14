@@ -34,7 +34,7 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] metti formato italiano nel datetime di account page, il codice c’e uguale nello schedaLibro data inserimento
       (!non è cosi semplice come pensavo...la conversione funziona, ma una volta scritto nel <input type> si sfalda il calendario)
 - [ ] favicon e logo: https://imgur.com/a/14daiaq
-- [ ] about us (me e pirol)
+- [X] about us (me e pirol) (da modificare)
 - [ ] Modifica libro (opzionale)
 - [ ] Caratteri UTF-8 (con accento) non vanno
 - [ ] Footer!
@@ -57,6 +57,7 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] modificare i “?message=” con modal bootstrap popup autorun
 - [ ] Nella tabella libri, modificare prezzo (21.1 --> 21.10)
 - [ ] Nel modale "modifyFotoProfilo" controllare grandezza immagine quando visualizzata!
+- [ ] Nel modale "modalAboutUs" aggiungere foto di me e @davePirol
 
 ### Appunti per connessione a python webservice
 Il webservice dovrà runnare sullo stesso server, cosi potra accedere al file caricato sul server, per poterlo decodificare.
