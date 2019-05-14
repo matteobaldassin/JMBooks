@@ -31,10 +31,11 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [X] Script Javascript in account che ti seleziona casella
 - [X] Aggiornamento foto profilo in account.php
 - [X] Donazioni con account paypal
+- [X] favicon (funziona solo su altervista.org)
+- [X] about us (me e pirol) (da modificare)
+- [ ] logo: https://imgur.com/a/14daiaq
 - [ ] metti formato italiano nel datetime di account page, il codice c’e uguale nello schedaLibro data inserimento
       (!non è cosi semplice come pensavo...la conversione funziona, ma una volta scritto nel <input type> si sfalda il calendario)
-- [ ] favicon e logo: https://imgur.com/a/14daiaq
-- [X] about us (me e pirol) (da modificare)
 - [ ] Modifica libro (opzionale)
 - [ ] Caratteri UTF-8 (con accento) non vanno
 - [ ] Footer!
