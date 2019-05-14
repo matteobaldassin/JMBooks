@@ -58,6 +58,7 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] Nella tabella libri, modificare prezzo (21.1 --> 21.10)
 - [ ] Nel modale "modifyFotoProfilo" controllare grandezza immagine quando visualizzata!
 - [ ] Nel modale "modalAboutUs" aggiungere foto di me e @davePirol
+- [ ] nell'aggiornamento foto profilo, fare script che visualizza caricamento file durante upload, sembra stuck sennò [LINK](https://medium.com/@martinsOnuoha/show-a-loading-animation-on-file-upload-17925b7bf300)
 
 ### Appunti per connessione a python webservice
 Il webservice dovrà runnare sullo stesso server, cosi potra accedere al file caricato sul server, per poterlo decodificare.
