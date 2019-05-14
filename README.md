@@ -54,6 +54,7 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] Form modale crea padding a destra
 - [ ] Prezzo amazon
 - [ ] modificare i “?message=” con modal bootstrap popup autorun
+- [ ] Nella tabella libri, modificare prezzo (21.1 --> 21.10)
 
 ### Appunti per connessione a python webservice
 Il webservice dovrà runnare sullo stesso server, cosi potra accedere al file caricato sul server, per poterlo decodificare.
