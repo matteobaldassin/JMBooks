@@ -59,6 +59,10 @@ questo è un problema, si puo ovviare passando in qualche modo l'immagine al pyt
 e forse funzionerebbe.
 ##### Sono riuscito a farlo, il webservice prende l'url dell'immagine, lo scarica dal sito, lo salva in locale e lo decodifica
 
+##### aggiornamento 2.0 : (zteobalda.pythonanywhere.com)
+il webservice ora runna su [pythoneverywhere](https://www.pythonanywhere.com)
+Il sito in pratica carica il file python "webservice.py" e permette l'accesso costante
+(a differenza di aws che, una volta chiusa la connessione SSH, terminava il run del webservice
 
 ## Useful links
 
