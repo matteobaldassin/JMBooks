@@ -26,12 +26,9 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [x] Nel cercalibro, se non sei loggato il pulsante ti fara modale loggare, se gia loggato, ti porta a schedaLibro
 - [x] SISTEMA TELEFONO IN ACCOUNT.php
 - [X] Login con google (webservice giodabg) (prima google insta)
-- [ ] navbar selected item highlighted
-- [ ] ISBN READER: da smartphone con fotocamera, da pc tipo whatsapp web con app
-- [ ] Modifica profilo da Account Page
-- [ ] account page con id get e scrive i parametri
-- [ ] modificare i “?message=” con modal bootstrap popup autorun
-- [ ] Script Javascript in account che ti seleziona casella non funziona ci pensa piroloù
+- [X] Modifica profilo da Account Page
+- [X] account page con id get e scrive i parametri
+- [X] Script Javascript in account che ti seleziona casella
 - [ ] Aggiorna propic (ci siamo quasi)
 - [ ] metti formato italiano nel datetime di account page, il codice c’e uguale nello schedaLibro data inserimento
 - [ ] favicon e logo: https://imgur.com/a/14daiaq
@@ -40,6 +37,8 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] Modifica libro (opzionale)
 - [ ] Caratteri UTF-8 (con accento) non vanno
 - [ ] Footer!
+- [ ] navbar selected item highlighted
+- [ ] ISBN READER: da smartphone con fotocamera, da pc tipo whatsapp web con app
 
 ### To-Check list
 - [ ] CONTROLLA FOTO PROFILO IN ACCOUNT PAGE CON GOOGLE
@@ -54,6 +53,7 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] migliora “elimina definitivamente” in listalibri con popup di sicurezza e poi $_SESSION[“gia-confermato”] = true e quindi non esce più
 - [ ] Form modale crea padding a destra
 - [ ] Prezzo amazon
+- [ ] modificare i “?message=” con modal bootstrap popup autorun
 
 ### Appunti per connessione a python webservice
 Il webservice dovrà runnare sullo stesso server, cosi potra accedere al file caricato sul server, per poterlo decodificare.
