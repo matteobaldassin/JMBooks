@@ -25,10 +25,9 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [x] Cambia password da account page
 - [x] Nel cercalibro, se non sei loggato il pulsante ti fara modale loggare, se gia loggato, ti porta a schedaLibro
 - [x] SISTEMA TELEFONO IN ACCOUNT.php
-- [ ] Login con google (webservice giodabg) (prima google insta)
+- [X] Login con google (webservice giodabg) (prima google insta)
 - [ ] navbar selected item highlighted
 - [ ] ISBN READER: da smartphone con fotocamera, da pc tipo whatsapp web con app
-- [ ] Prezzo amazon
 - [ ] Modifica profilo da Account Page
 - [ ] account page con id get e scrive i parametri
 - [ ] modificare i “?message=” con modal bootstrap popup autorun
@@ -38,23 +37,28 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] favicon e logo: https://imgur.com/a/14daiaq
 - [ ] about us (me e pirol)
 - [ ] Donazioni con account paypal
+- [ ] Modifica libro (opzionale)
 
 ### To-Check list
 - [ ] CONTROLLA FOTO PROFILO IN ACCOUNT PAGE CON GOOGLE
 - [ ] CONTROLLA TUTTO PER GOOGLE
 - [ ] CONTROLLA SE FUNZIONA ANCORA REGISTER (in teoria si!)
 - [ ] CONTROLLA GOOGLE DISCONNECT() non disconnette veramente ma puo essere passabile per primi test
+- [ ] Mail non arrvia!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ### Improve list
 - [ ] MIGLIORARE REDIRECT in CERCALIBRO: alla pagina corrente e non sempre ad index.php
 - [ ] MIGLIORARE in schedaLibro onLoad() fai uscire il modale se non sei loggato, javascript lo odio e non funziona.
 - [ ] migliora “elimina definitivamente” in listalibri con popup di sicurezza e poi $_SESSION[“gia-confermato”] = true e quindi non esce più
-- [ ] Mail non arrvia
+- [ ] Form modale crea padding a destra
+- [ ] Prezzo amazon
 
 ### Appunti per connessione a python webservice
 Il webservice dovrà runnare sullo stesso server, cosi potra accedere al file caricato sul server, per poterlo decodificare.
 questo è un problema, si puo ovviare passando in qualche modo l'immagine al python webserver (esempio con download da url)
 e forse funzionerebbe.
+##### Sono riuscito a farlo, il webservice prende l'url dell'immagine, lo scarica dal sito, lo salva in locale e lo decodifica
+
 
 ## Useful links
 
