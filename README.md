@@ -38,6 +38,7 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] about us (me e pirol)
 - [ ] Donazioni con account paypal
 - [ ] Modifica libro (opzionale)
+- [ ] Caratteri UTF-8 (con accento) non vanno
 
 ### To-Check list
 - [ ] CONTROLLA FOTO PROFILO IN ACCOUNT PAGE CON GOOGLE
