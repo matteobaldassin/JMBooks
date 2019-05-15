@@ -43,6 +43,7 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] ISBN READER: da smartphone con fotocamera, da pc tipo whatsapp web con app (aggiungere nuovo webservice)
 - [ ] Centra "loginConGoogle" e metti didascalia (es Effettua il login con google)
 
+- [ ] Conta righe di codice totale
 ### To-Check list
 - [ ] CONTROLLA FOTO PROFILO IN ACCOUNT PAGE CON GOOGLE
 - [ ] CONTROLLA TUTTO PER GOOGLE
