@@ -33,6 +33,7 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [X] Donazioni con account paypal
 - [X] favicon (funziona solo su altervista.org)
 - [X] about us (me e pirol) (da modificare)
+- [X] Aggiunto script che seleziona tutto e anche prezzo: ROUND(prezzo,2). Cosi non taglia i decimali
 - [ ] logo: https://imgur.com/a/14daiaq
 - [ ] metti formato italiano nel datetime di account page, il codice c’e uguale nello schedaLibro data inserimento
       (!non è cosi semplice come pensavo...la conversione funziona, ma una volta scritto nel <input type> si sfalda il calendario)
@@ -64,6 +65,7 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] nell'aggiornamento foto profilo, fare script che visualizza caricamento file durante upload, sembra stuck sennò [LINK](https://medium.com/@martinsOnuoha/show-a-loading-animation-on-file-upload-17925b7bf300)
 - [ ] aggiungere favicon anche su jmbooks.it?
 - [ ] HTTPS su jmbooks.it
+- [ ] In account.php, quando faccio elimina definitivamente, fai uscire modale che ti chiede "sei sicuro"?
 
 ### Appunti per connessione a python webservice
 Il webservice dovrà runnare sullo stesso server, cosi potra accedere al file caricato sul server, per poterlo decodificare.
