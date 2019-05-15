@@ -40,14 +40,15 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] Caratteri UTF-8 (con accento) non vanno
 - [ ] Footer!
 - [ ] navbar selected item highlighted
-- [ ] ISBN READER: da smartphone con fotocamera, da pc tipo whatsapp web con app
+- [ ] ISBN READER: da smartphone con fotocamera, da pc tipo whatsapp web con app (aggiungere nuovo webservice)
+- [ ] Centra "loginConGoogle" e metti didascalia (es Effettua il login con google)
 
 ### To-Check list
 - [ ] CONTROLLA FOTO PROFILO IN ACCOUNT PAGE CON GOOGLE
 - [ ] CONTROLLA TUTTO PER GOOGLE
 - [ ] CONTROLLA SE FUNZIONA ANCORA REGISTER (in teoria si!)
 - [ ] CONTROLLA GOOGLE DISCONNECT() non disconnette veramente ma puo essere passabile per primi test
-- [ ] Mail non arrvia!!!!!!!!!!!!!!!!!!!!!!!!!
+- [ ] Mail non arriva!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ### Improve list
 - [ ] MIGLIORARE REDIRECT in CERCALIBRO: alla pagina corrente e non sempre ad index.php
