@@ -34,15 +34,16 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [X] favicon (funziona solo su altervista.org)
 - [X] about us (me e pirol) (da modificare)
 - [X] Aggiunto script che seleziona tutto e anche prezzo: ROUND(prezzo,2). Cosi non taglia i decimali
-- [ ] logo: https://imgur.com/a/14daiaq
+- [X] Aggiunto contatore di libri gia venduti/in vendita in account.php
+- [X] Centra "loginConGoogle" e metti didascalia (es Effettua il login con google)
+- [X] logo: https://imgur.com/a/14daiaq (/img/logoHome.png)
+- [X] Footer!
 - [ ] metti formato italiano nel datetime di account page, il codice c’e uguale nello schedaLibro data inserimento
       (!non è cosi semplice come pensavo...la conversione funziona, ma una volta scritto nel <input type> si sfalda il calendario)
 - [ ] Modifica libro (opzionale)
-- [ ] Caratteri UTF-8 (con accento) non vanno
-- [ ] Footer!
+- [ ] Caratteri UTF-8 (con accento) non vanno CHIEDI A LONGHI
 - [ ] navbar selected item highlighted
-- [ ] ISBN READER: da smartphone con fotocamera, da pc tipo whatsapp web con app (aggiungere nuovo webservice)
-- [ ] Centra "loginConGoogle" e metti didascalia (es Effettua il login con google)
+- [ ] ISBN READER: da smartphone con fotocamera, da pc tipo whatsapp web con app (aggiungere nuovo webservice) DA IMPLEMENTARE
 
 - [ ] Conta righe di codice totale
 ### To-Check list
@@ -59,13 +60,14 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [ ] Form modale crea padding a destra
 - [ ] Prezzo amazon
 - [ ] modificare i “?message=” con modal bootstrap popup autorun
-- [ ] Nella tabella libri, modificare prezzo (21.1 --> 21.10)
 - [ ] Nel modale "modifyFotoProfilo" controllare grandezza immagine quando visualizzata!
 - [ ] Nel modale "modalAboutUs" aggiungere foto di me e @davePirol
 - [ ] nell'aggiornamento foto profilo, fare script che visualizza caricamento file durante upload, sembra stuck sennò [LINK](https://medium.com/@martinsOnuoha/show-a-loading-animation-on-file-upload-17925b7bf300)
 - [ ] aggiungere favicon anche su jmbooks.it?
 - [ ] HTTPS su jmbooks.it
-- [ ] In account.php, quando faccio elimina definitivamente, fai uscire modale che ti chiede "sei sicuro"?
+- [ ] In account.php, quando faccio elimina definitivamente, fai uscire modale che ti chiede "sei sicuro"? 
+- [ ] Aggiungere pagina profilo utente pubblica, con recensioni/stelle onesta
+- [ ] Modificare css di bootstrap per MODAL e FORM (aggiungono padding rispettivamente right e top).
 
 ### Appunti per connessione a python webservice
 Il webservice dovrà runnare sullo stesso server, cosi potra accedere al file caricato sul server, per poterlo decodificare.
