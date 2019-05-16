@@ -42,6 +42,8 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [X] cambiare footer ( ho messo link a matteobaldassin.com, da cambiare a boo)
 - [X] fare app android con riporta pagina
 - [X] sistema immagine nel homepage
+- [ ] in cercalibro se non sei loggato il colore del font del bottone è bianco, fallo nero poi hover bianco
+- [ ] Aggiungi "sottolineato con evidenziatore" in vendiLibro
 - [ ] metti formato italiano nel datetime di account page, il codice c’e uguale nello schedaLibro data inserimento
       (!non è cosi semplice come pensavo...la conversione funziona, ma una volta scritto nel <input type> si sfalda il calendario)
 - [ ] Modifica libro (opzionale)
@@ -51,6 +53,8 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 ----- IMPORTANTI ----
 - [ ] i due modali (donazione e chi siamo) nella home non sono responsive
 - [ ] account quando loggato quando premi per andare su profilo si sposta fuori
+- [ ] Non funziona send email, per ora ho messo un'altra pagina "registrazioneSOLOPERDEBUG" che registra senza conferma
+- [ ] Nell'account.php, il footer rimane alto se l'account non ha libri
 
 - [ ] Conta righe di codice totale
 ### To-Check list
