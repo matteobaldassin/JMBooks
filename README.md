@@ -38,13 +38,19 @@ Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Mo
 - [X] Centra "loginConGoogle" e metti didascalia (es Effettua il login con google)
 - [X] logo: https://imgur.com/a/14daiaq (/img/logoHome.png)
 - [X] Footer!
+- [X] tabella in homepage non responsive
+- [X] cambiare footer ( ho messo link a matteobaldassin.com, da cambiare a boo)
+- [X] fare app android con riporta pagina
 - [ ] metti formato italiano nel datetime di account page, il codice c’e uguale nello schedaLibro data inserimento
       (!non è cosi semplice come pensavo...la conversione funziona, ma una volta scritto nel <input type> si sfalda il calendario)
 - [ ] Modifica libro (opzionale)
 - [ ] Caratteri UTF-8 (con accento) non vanno CHIEDI A LONGHI
 - [ ] navbar selected item highlighted
 - [ ] ISBN READER: da smartphone con fotocamera, da pc tipo whatsapp web con app (aggiungere nuovo webservice) DA IMPLEMENTARE
+- [ ] i due modali (donazione e chi siamo) nella home non sono responsive
+- [X] sistema immagine nel homepage
 
+- [ ] account quando loggato quando premi per andare su profilo si sposta fuori
 - [ ] Conta righe di codice totale
 ### To-Check list
 - [ ] CONTROLLA FOTO PROFILO IN ACCOUNT PAGE CON GOOGLE
