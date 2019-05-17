@@ -1,0 +1,16 @@
+# av:PHP-upload
+php_value upload_max_filesize 20M
+php_value post_max_size 20M
+php_value max_input_time 300
+# PHP-upload
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.html?$ / [NC,R,L]
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.jmbooks.altervista.org$ [NC,OR]
+RewriteCond %{HTTP_HOST} ^jmbooks.altervista.org$ [NC]
+RewriteCond %{HTTP:X-Forwarded-Proto} !^https$
+RewriteRule ^(.*) https://www.jmbooks.altervista.org/$1 [R=301,L]
+</IfModule>
