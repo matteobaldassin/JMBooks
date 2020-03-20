@@ -91,6 +91,8 @@ il webservice ora runna su [pythoneverywhere](https://www.pythonanywhere.com)
 Il sito in pratica carica il file python "webservice.py" e permette l'accesso costante
 (a differenza di aws che, una volta chiusa la connessione SSH, terminava il run del webservice
 
+(commento del 20/03/2020: sei un coglione, bastava inserire il tmux o qualsiasi interfaccia linux similare e poi attaccarti ahah)
+
 ## Useful links
 
 - (https://pypi.org/project/python-barcode/)
