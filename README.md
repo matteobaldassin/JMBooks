@@ -1,5 +1,8 @@
+# !!! PROGETTO TEMPORANEAMENTE DISMESSO !!!
+
 # JMBooks
 Piattaforma online di compra/vendita di libri, all'interno dell'istituto Jean Monnet
+
 
 ## TODO LIST
   - [x] login sia con email sia con username
